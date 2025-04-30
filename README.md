@@ -83,7 +83,7 @@ The dataset was sourced from the **Bureau of Meteorology's Climate Data Online s
 ## **How to Run the Project**
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/theadityamittal/WeatherPrediction.git
+git clone https://github.com/Geethanjali5/WeatherPrediction.git
 cd WeatherPrediction
 ```
 
@@ -119,15 +119,4 @@ Run all cells in `WeatherPrediction.ipynb` to train models, optimize hyperparame
 
 ---
 
-## **Contributors**
-- **Aditya Mittal**
-- **Metun**
-- **Mridul Mittal**
-- **Utsav Sharma**
 
-For questions, reach out via [GitHub Issues](https://github.com/your-repo/rain-prediction-australia/issues).
-
----
-
-## **License**
-This project is licensed under the **MIT License**.
